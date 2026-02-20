@@ -1,16 +1,122 @@
-# React + Vite
+Ritika Bhagyawant – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Full Stack Developer Portfolio built using React + Vite and deployed via GitHub Pages.
 
-Currently, two official plugins are available:
+🔗 Live Website:
+https://ritikabhagyawant.github.io/ritika-portfolio/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 About This Project
 
-## React Compiler
+This portfolio showcases:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Professional Summary
 
-## Expanding the ESLint configuration
+Technical Skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Work Experience
+
+Featured Projects
+
+Education
+
+Contact Information
+
+The design focuses on:
+
+Clean typography
+
+Structured layout
+
+Professional color palette
+
+Smooth navigation
+
+Floating code card animation
+
+🛠 Tech Stack
+
+React
+
+Vite
+
+CSS3
+
+Git & GitHub
+
+GitHub Pages (Deployment)
+
+📂 Project Structure
+ritika-portfolio/
+│
+├── src/
+│   ├── Portfolio.jsx
+│   ├── Portfolio.css
+│   └── main.jsx
+│
+├── public/
+├── index.html
+├── vite.config.js
+└── package.json
+⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/RitikaBhagyawant/ritika-portfolio.git
+cd ritika-portfolio
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+
+Build for production:
+
+npm run build
+🌐 Deployment
+
+This project is deployed using GitHub Pages.
+
+Deployment command:
+
+npm run deploy
+
+Make sure vite.config.js contains:
+
+base: "/ritika-portfolio/"
+📌 Featured Projects
+
+✈️ Flight Booking System (Django + SQL + Razorpay)
+
+📰 News Management System
+
+🤖 WhatsApp BOT System
+
+🛒 E-Commerce UI Clone
+
+👩‍💻 Author
+
+Ritika Bhagyawant
+Full Stack Developer
+
+📧 ritikabhagyawant@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ritikabhagyawant/
+
+🔗 GitHub: https://github.com/RitikaBhagyawant
+
+⭐ Why This Portfolio?
+
+This portfolio represents:
+
+Practical full-stack experience
+
+Clean architecture approach
+
+Production-ready deployment workflow
+
+Modern UI design principles
+
+If you like this project, feel free to ⭐ the repository.
