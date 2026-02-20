@@ -38,18 +38,4 @@ Email: ritikabhagyawant@gmail.com
 LinkedIn: https://www.linkedin.com/in/ritikabhagyawant/  
 GitHub: https://github.com/RitikaBhagyawant
 
-📂 Project Structure
-ritika-portfolio/
-│
-├── src/
-│   ├── Portfolio.jsx
-│   ├── Portfolio.css
-│   └── main.jsx
-│
-├── public/
-├── index.html
-├── vite.config.js
-└── package.json
-⚙️ Installation & Set up
-
-If you like this project, feel free to ⭐ the repository.
+## If you like this project, feel free to ⭐ the repository.
