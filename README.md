@@ -1,4 +1,4 @@
-Ritika Bhagyawant – Portfolio
+#Ritika Bhagyawant – Portfolio
 
 A modern, responsive Full Stack Developer Portfolio built using React + Vite and deployed via GitHub Pages.
 
