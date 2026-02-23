@@ -438,10 +438,14 @@ section {
 }
 
 .experience-item ul li::before {
-  content: '?';
+  content: '';
   position: absolute;
   left: 0;
-  color: var(--accent);
+  top: 8px;
+  width: 6px;
+  height: 6px;
+  background: var(--accent);
+  border-radius: 50%;
 }
 
 /* Projects Section */
